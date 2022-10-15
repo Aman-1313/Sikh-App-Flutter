@@ -12,4 +12,4 @@ I have used the Google's flutter platform to create an IOS and Androind applicat
 
 ## a sneak-peak at the application 
 
-<img src="https://github.com/Aman-1313/Fitness-Trainer/blob/main/Screenshot_1.png" alt="drawing" width="200"/> 
+<img src="https://github.com/Aman-1313/Sikh-App-Flutter/blob/main/350c8543-0619-4de5-aab6-3909a5bec512.jpg" alt="drawing" width="200" height="300"/> 
