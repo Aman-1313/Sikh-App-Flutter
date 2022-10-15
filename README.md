@@ -1,16 +1,15 @@
-# religious
+# Sikh-App
 
-A new Flutter application.
+## A spiritual app consisting of holy reading and videos
 
-## Getting Started
+## Vision Statement
 
-This project is a starting point for a Flutter application.
+The aim is to create an app that might be used by thousand of people to start their day with a spiritual tour of their holy readings. The app consists of many sikh readings and videos.
 
-A few resources to get you started if this is your first Flutter project:
+## Tools and technologies
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+I have used the Google's flutter platform to create an IOS and Androind application in one go, the main programming language in dart which is fundamentally very easy to learn. I have also used the Android studios project structure as the initial stage for my application.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## a sneak-peak at the application 
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
