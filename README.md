@@ -12,4 +12,4 @@ I have used the Google's flutter platform to create an IOS and Androind applicat
 
 ## a sneak-peak at the application 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+<img src="https://github.com/Aman-1313/Fitness-Trainer/blob/main/Screenshot_1.png" alt="drawing" width="200"/> 
