@@ -13,3 +13,5 @@ I have used the Google's flutter platform to create an IOS and Androind applicat
 ## a sneak-peak at the application 
 
 <img src="https://github.com/Aman-1313/Sikh-App-Flutter/blob/main/350c8543-0619-4de5-aab6-3909a5bec512.jpg" alt="drawing" width="200" height="300"/> 
+<img src="https://github.com/Aman-1313/Sikh-App-Flutter/blob/main/5536484c-be3b-4d58-b6dd-186cd687b22a.jpg" alt="drawing" width="200" height="300"/> 
+<img src="https://github.com/Aman-1313/Sikh-App-Flutter/blob/main/8b338f9a-98f7-4f47-b54b-0510ba36bad0.jpg" alt="drawing" width="200" height="300"/>
